@@ -3202,6 +3202,8 @@ object CardId {
 
   const val KADOOM_BOT: String = "BOTA_BOSS_20p3"
 
+  const val SHUDDERLING: String = "TB_BaconShop_HP_022t"
+
   const val CLOSE_CALL: String = "LOOT_204e"
 
   const val SAND_SURGE1: String = "ULDA_BOSS_08px"
@@ -5764,6 +5766,8 @@ object CardId {
 
   const val JACOB_JARECKI: String = "CRED_82"
 
+  const val PAVE_THE_WAY1: String = "SW_313t"
+
   const val SHALJA: String = "TB_Thunderdome_Shalja"
 
   const val ANARII_DUSKGROVE: String = "DALA_BOSS_71h"
@@ -8050,8 +8054,6 @@ object CardId {
 
   const val JADE_SWARMER: String = "CFM_691"
 
-  const val PLACEHOLDER_DNT1: String = "TB_BaconShop_HP_022t_G"
-
   const val AGGRESSION: String = "DALA_Hunter_08"
 
   const val GRIZZLED_WIZARD: String = "DRG_401"
@@ -10094,8 +10096,6 @@ object CardId {
   const val HOGGER2: String = "VAN_NEW1_040"
 
   const val GROMS_AMGUARDS_ENCHANTMENT: String = "LOOTA_818e"
-
-  const val BURBLING: String = "TB_BaconShop_HP_022"
 
   const val FEROCIOUS_FLURRY: String = "PVPDR_DMF_Shamanp1"
 
@@ -15884,6 +15884,8 @@ object CardId {
 
   const val MOZAKI_MASTER_DUELIST: String = "PVPDR_Hero_Mozaki"
 
+  const val SHUDDERLING1: String = "TB_BaconShop_HP_022t_G"
+
   const val ALEXSTRASZA: String = "DRGA_BOSS_17h"
 
   const val SET_THE_TABLE: String = "KAR_A02_09"
@@ -19436,8 +19438,6 @@ object CardId {
 
   const val TOME_OF_INTELLECT: String = "EX1_180"
 
-  const val PLACEHOLDER_DNT: String = "TB_BaconShop_HP_022t"
-
   const val EQUIPPED: String = "AT_084e"
 
   const val FIREY: String = "TB_Firefest2_003e"
@@ -20507,6 +20507,8 @@ object CardId {
   const val BEAM_OF_DECAY: String = "LOOTA_BOSS_26p7"
 
   const val UNSTABLE_PORTAL2: String = "LOEA15_2H"
+
+  const val SNICKERSNACK: String = "TB_BaconShop_HP_022"
 
   const val UNSTABLE_PORTAL1: String = "LOEA15_2"
 
@@ -25018,7 +25020,7 @@ object CardId {
 
   const val MENAGERIE_WARDEN1: String = "KAR_065"
 
-  const val PAVE_THE_WAY: String = "SW_313t"
+  const val PAVE_THE_WAY: String = "SW_313e1"
 
   const val RUMBLETUSK_BREAKER: String = "TRL_531t"
 

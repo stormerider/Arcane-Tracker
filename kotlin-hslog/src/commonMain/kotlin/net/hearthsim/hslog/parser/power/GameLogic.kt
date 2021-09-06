@@ -347,8 +347,8 @@ internal class GameLogic(private val console: Console, private val cardJson: Car
                 || opponentHero.CardID == CardId.RAGNAROS_TIKILORD
                 || opponentHero.CardID == CardId.VENARI
                 || opponentHero.CardID == CardId.DRAGONSPEAKER_BOB
+                || opponentHero.CardID == CardId.MEGA_BOB
                 || opponentHero.CardID == CardId.FIZZY
-                || opponentHero.CardID == CardId.KELTHUZAD3
         )
             return
 

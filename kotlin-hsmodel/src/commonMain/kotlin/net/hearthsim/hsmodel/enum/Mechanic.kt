@@ -16,6 +16,8 @@ object Mechanic {
 
   const val AUTOATTACK: String = "AUTOATTACK"
 
+  const val AVENGE: String = "AVENGE"
+
   const val BATTLECRY: String = "BATTLECRY"
 
   const val CANT_ATTACK: String = "CANT_ATTACK"

@@ -4,8 +4,6 @@ package net.hearthsim.hsmodel.enum
 import kotlin.String
 
 object HSSet {
-  const val BASIC: String = "BASIC"
-
   const val BATTLEGROUNDS: String = "BATTLEGROUNDS"
 
   const val BLACK_TEMPLE: String = "BLACK_TEMPLE"

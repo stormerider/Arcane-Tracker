@@ -416,6 +416,8 @@ object CardId {
 
   const val SADDLED_UP: String = "ULDA_402e"
 
+  const val EMBER_COURT_ILLIDAN: String = "HERO_10k"
+
   const val PRINCESS1: String = "PVPDR_SCH_Active46"
 
   const val BITE1: String = "EX1_570e"
@@ -16862,6 +16864,8 @@ object CardId {
 
   const val FROTHING_BERSERKER: String = "CORE_EX1_604"
 
+  const val MIND_SWAPPED: String = "SCH_159e2"
+
   const val STONECRASH: String = "BG20_HERO_301_SKIN_A"
 
   const val LEGION2: String = "KARA_13_13"
@@ -18270,6 +18274,8 @@ object CardId {
 
   const val CLOCKWORK_GIANT: String = "CORE_GVG_121"
 
+  const val ASCENDED_UTHER: String = "HERO_04m"
+
   const val GIANT_SAND_WORM: String = "OG_308"
 
   const val RALLIED1: String = "PVPDR_SCH_Active35e2"
@@ -19211,6 +19217,8 @@ object CardId {
   const val MOIRA_BRONZEBEARD: String = "BRMA03_3"
 
   const val FAEWARDEN_OMU: String = "TB_BaconShop_HERO_74_SKIN_A"
+
+  const val WINTER_FURY_MALFURION: String = "HERO_06o"
 
   const val ALCHEMIST_WENDY: String = "DALA_BOSS_16h"
 
@@ -23499,6 +23507,8 @@ object CardId {
   const val REPENTANCE: String = "EX1_379"
 
   const val RUNEFORGE_HAUNTER: String = "ICC_240"
+
+  const val HOUSE_OF_RITUALS_GULDAN: String = "HERO_07m"
 
   const val SERRATED_SHADOWS: String = "CFM_610e"
 

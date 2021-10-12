@@ -12,6 +12,8 @@ object Type {
 
   const val HERO_POWER: String = "HERO_POWER"
 
+  const val LETTUCE_ABILITY: String = "LETTUCE_ABILITY"
+
   const val MINION: String = "MINION"
 
   const val MOVE_MINION_HOVER_TARGET: String = "MOVE_MINION_HOVER_TARGET"

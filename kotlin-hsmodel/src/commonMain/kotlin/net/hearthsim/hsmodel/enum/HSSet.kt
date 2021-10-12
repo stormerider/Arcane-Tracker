@@ -40,6 +40,8 @@ object HSSet {
 
   const val LEGACY: String = "LEGACY"
 
+  const val LETTUCE: String = "LETTUCE"
+
   const val LOE: String = "LOE"
 
   const val LOOTAPALOOZA: String = "LOOTAPALOOZA"

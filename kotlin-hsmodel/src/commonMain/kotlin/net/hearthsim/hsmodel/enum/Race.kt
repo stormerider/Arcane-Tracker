@@ -8,19 +8,53 @@ object Race {
 
   const val BEAST: String = "BEAST"
 
+  const val BLOODELF: String = "BLOODELF"
+
+  const val CENTAUR: String = "CENTAUR"
+
   const val DEMON: String = "DEMON"
+
+  const val DRAENEI: String = "DRAENEI"
 
   const val DRAGON: String = "DRAGON"
 
+  const val DWARF: String = "DWARF"
+
+  const val EGG: String = "EGG"
+
   const val ELEMENTAL: String = "ELEMENTAL"
+
+  const val FURBOLG: String = "FURBOLG"
+
+  const val GNOME: String = "GNOME"
+
+  const val GOBLIN: String = "GOBLIN"
+
+  const val HALFORC: String = "HALFORC"
+
+  const val HUMAN: String = "HUMAN"
 
   const val MECHANICAL: String = "MECHANICAL"
 
   const val MURLOC: String = "MURLOC"
 
+  const val NIGHTELF: String = "NIGHTELF"
+
+  const val OGRE: String = "OGRE"
+
+  const val ORC: String = "ORC"
+
   const val PIRATE: String = "PIRATE"
 
   const val QUILBOAR: String = "QUILBOAR"
 
+  const val TAUREN: String = "TAUREN"
+
   const val TOTEM: String = "TOTEM"
+
+  const val TREANT: String = "TREANT"
+
+  const val TROLL: String = "TROLL"
+
+  const val UNDEAD: String = "UNDEAD"
 }

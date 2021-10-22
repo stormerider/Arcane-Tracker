@@ -21788,6 +21788,8 @@ object CardId {
 
   const val CANDLE: String = "KAR_025a"
 
+  const val REFRESH_COSTS__LESS: String = "BG21_040e"
+
   const val GOLD_GRUBBING: String = "BGS_066e"
 
   const val ROYAL_GREATSWORD: String = "PVPDR_SCH_Paladint1"

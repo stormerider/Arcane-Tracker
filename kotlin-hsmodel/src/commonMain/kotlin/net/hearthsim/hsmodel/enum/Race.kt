@@ -34,6 +34,8 @@ object Race {
 
   const val HUMAN: String = "HUMAN"
 
+  const val LOCK: String = "LOCK"
+
   const val MECHANICAL: String = "MECHANICAL"
 
   const val MURLOC: String = "MURLOC"

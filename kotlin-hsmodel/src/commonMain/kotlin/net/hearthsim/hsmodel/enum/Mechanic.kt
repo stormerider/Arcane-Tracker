@@ -78,6 +78,8 @@ object Mechanic {
 
   const val HEROPOWER_DAMAGE: String = "HEROPOWER_DAMAGE"
 
+  const val HONORABLEKILL: String = "HONORABLEKILL"
+
   const val IGNORE_HIDE_STATS_FOR_BIG_CARD: String = "IGNORE_HIDE_STATS_FOR_BIG_CARD"
 
   const val IMMUNE: String = "IMMUNE"
